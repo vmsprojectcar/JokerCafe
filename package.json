@@ -1,8 +1,0 @@
-{
-"name": "joker-cafe",
-"version": "1.0.0",
-"scripts": {
-"build-products": "node build-products.js"
-},
-"dependencies": {}
-}
